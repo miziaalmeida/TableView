@@ -5,4 +5,4 @@ Repositório para entrega de desafios da aula 25/09 - Table View
 - Fazer uma Tableview que carregue o nome de 5 marcas de carro e carregue uma imagem de um carro fixo utilizando a UITableViewCell. Quando a pessoa clicar no carro, deve imprimir a marca do veiculo selecionado
 
 ### Preview
-![screenshoot](/Users/mizialima/Documents/IOS/25.09/ScreenShot-iPhone11.png)
+![screen](/Users/mizialima/Documents/IOS/25.09/tbView.png)
